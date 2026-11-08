@@ -16,6 +16,7 @@ type KendaraanType {
   plat: String
 }
 
+
 type PenyewaanType {
   id: Int!
   pelangganId: Int!
